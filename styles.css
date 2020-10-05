@@ -1,3 +1,6 @@
+html{
+  touch-action: none;
+}
 body {
   text-align: center;
   background-color: #283149;
